@@ -93,4 +93,3 @@ while running:
     
 pygame.time.delay(1000)
 pygame.quit()
-print("tmp")
